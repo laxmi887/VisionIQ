@@ -1,0 +1,13 @@
+{
+  "location": [
+    "hand",
+    "hip",
+    "leg",
+    "mixed",
+    "shoulder"
+  ],
+  "fracture_type": [
+    "fracture_unspecified",
+    "none"
+  ]
+}

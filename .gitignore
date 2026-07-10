@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Django
+db.sqlite3
+media/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (if large)
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Evaluation outputs
+evaluation_results/
+
+# Temporary files
+*.tmp
+
+
+# Dataset
+dataset/
+
+# Runtime generated files
+media/
+predictions/
+
+# Model weights
+mainapp/ai/models/*.pt
